@@ -4,3 +4,6 @@
 [submodule "TukanStudios_JSFX"]
 	path = TukanStudios_JSFX
 	url = https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS
+[submodule "ReJJ"]
+	path = ReJJ
+	url = https://github.com/Justin-Johnson/ReJJ
