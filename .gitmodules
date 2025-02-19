@@ -1,3 +1,6 @@
 [submodule "reapack-jm"]
 	path = reapack-jm
 	url = https://github.com/jozmac/reapack-jm
+[submodule "TukanStudios_JSFX"]
+	path = TukanStudios_JSFX
+	url = https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS
