@@ -16,3 +16,6 @@
 [submodule "ReaTeam_JSFX"]
 	path = ReaTeam_JSFX
 	url = https://github.com/ReaTeam/JSFX
+[submodule "JoepVanilier_JSFX"]
+	path = JoepVanilier_JSFX
+	url = https://github.com/JoepVanlier/JSFX
