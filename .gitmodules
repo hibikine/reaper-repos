@@ -13,3 +13,6 @@
 [submodule "Sonic-Anomaly-JSFX"]
 	path = Sonic-Anomaly-JSFX
 	url = https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX/
+[submodule "ReaTeam_JSFX"]
+	path = ReaTeam_JSFX
+	url = https://github.com/ReaTeam/JSFX
