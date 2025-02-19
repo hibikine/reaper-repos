@@ -7,3 +7,6 @@
 [submodule "ReJJ"]
 	path = ReJJ
 	url = https://github.com/Justin-Johnson/ReJJ
+[submodule "chkhld_JSFX"]
+	path = chkhld_JSFX
+	url = https://github.com/chkhld/jsfx
